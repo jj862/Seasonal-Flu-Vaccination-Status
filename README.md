@@ -3,13 +3,13 @@
 
 #### Author: Jonah Devoy
 
-The purpose of this assignment was to assemble a classifier to predict whether an individual was vaccinated against the seasonal flu or not as accurately as possible while looking at factors that influence whether someone elects to get vaccinated against the seasonal flu.
+The purpose of this assignment was to assemble a classifier to predict whether an individual was vaccinated against the seasonal flu or not as accurate as possible while looking at factors that influence whether someone elects to get vaccinated against the seasonal flu.
 
 
 ## The Data
 Taken from <a href="https://www.drivendata.org/competitions/66/flu-shot-learning/page/211/"> DrivenData</a>
 * **h1n1_vaccine** - Whether respondent received H1N1 flu vaccine.
-* **seasonal_vaccine** - Whether respondent received seasonal flu vaccine.
+* **seasonal_vaccine** - Whether the respondent received seasonal flu vaccine.
 * **h1n1_concern** - Level of concern about the H1N1 flu.
 0 = Not at all concerned; 1 = Not very concerned; 2 = Somewhat concerned; 3 = Very concerned.
 * **h1n1_knowledge** - Level of knowledge about H1N1 flu.
@@ -94,7 +94,7 @@ Why Decision Tree Classifier?
 
 * Increase public awareness of the effectiveness of the vaccine in protecting against the flu.
 * Doctors should regularly recommend that their patients get vaccinated against the seasonal flu each year. 
-* Increase health literacy
+* Increase the health literacy of patients. 
 
 
 
