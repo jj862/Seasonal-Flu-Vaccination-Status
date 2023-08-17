@@ -97,6 +97,8 @@ Why Decision Tree Classifier?
 * Increase the health literacy of patients. 
 
 
+Final notebook_v2 in progress will have diffrent models including H1N1
+
 
 
 
